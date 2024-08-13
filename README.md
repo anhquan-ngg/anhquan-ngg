@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently studying in Hanoi University of Science and Technology.
-🌱 I'm passionate about English but currently learning Japanese.
+🔭 I’m currently studying in Hanoi University of Science and Technology.  
+🌱 I'm passionate about English but currently learning Japanese.  
 🥅 Favorite Quote: It's ok to lose people but never lose yourself.
