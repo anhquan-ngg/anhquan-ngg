@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Nguyen Anh Quan
 
 <!--
 **anhquan-ngg/anhquan-ngg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently studying in Hanoi University of Science and Technology.
+🌱 I'm passionate about English but currently learning Japanese.
+🥅 Favorite Quote: It's ok to lose people but never lose yourself.
