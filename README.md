@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 🔭 I’m currently studying in Hanoi University of Science and Technology.  
 🌱 I'm passionate about English but currently learning Japanese.  
 🥅 Favorite Quote: It's ok to lose people but never lose yourself.
+![GitHub Stats] (https://github-readme-stats.vercel.app/api username=anhquan-ngg & theme=radical)
