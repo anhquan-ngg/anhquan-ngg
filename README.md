@@ -13,6 +13,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhquan-ngg&layout=compact&show_icons=true&hide_border=true" />
 
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding.gif"/></td>
+  <td width="52%"><img alt="gif" align="right" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></td>
 </tr>
 <table>
