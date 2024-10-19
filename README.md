@@ -1,5 +1,5 @@
-## Hi there 👋 I'm Nguyen Anh Quan
 
+<h1 align="center"> Hi there 👋 I'm Nguyen Anh Quan. </h1>
 <h3 align="center">A enthusiast about Japanese and Tech from Vietnam.</h3>
 
 - 🔭 I’m currently studying **in Hanoi University of Science and Technology**
