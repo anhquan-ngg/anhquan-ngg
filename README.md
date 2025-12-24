@@ -1,4 +1,4 @@
-
+<h1 align="center"> Hi there 👋 I'm Nguyen Anh Quan </h1>
 <h3 align="center">A Tech Enthusiast & Japanese Learner from Vietnam</h3>
 
 🔭 I’m currently a 4th-year student at Hanoi University of Science and Technology (HUST).
