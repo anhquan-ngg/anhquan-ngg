@@ -5,12 +5,10 @@
 
 🌱 I’m deeply passionate about Web Development with a career goal of becoming a Fullstack Developer / Software Engineer.
 
-🇯🇵 I’m actively learning Japanese to bridge the gap between technology and the Japanese market.
+ 🇯🇵 I’m actively learning Japanese to bridge the gap between technology and the Japanese market.
 
 ⚡ Fun fact: I love exploring the intersection of clean code and linguistic logic.
 
-🛠️ Languages and Tools
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </p>
 ## [GitHub Stats] 
 
 <table>
