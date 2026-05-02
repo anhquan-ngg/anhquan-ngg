@@ -12,18 +12,15 @@
 ⚡ *Fun fact: I love exploring the intersection of clean code and linguistic logic.*
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anhquan-ngg&theme=vue&show_icons=true&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anhquan-ngg&theme=vue&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhquan-ngg&theme=vue&show_icons=true&hide_border=true&layout=compact" height="160"/>
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="160" alt="coding-gif" />
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhquan-ngg&theme=vue&show_icons=true&hide_border=true&layout=compact" height="160"/> -->
+  
+<!-- </p> -->
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" height="160" alt="coding-gif" />
 ---
 
 ### 🛠 Languages and Tools
